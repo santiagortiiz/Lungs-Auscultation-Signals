@@ -31,4 +31,4 @@ procesamiento de las señales.
 
 
 Finalmente se anexa el archivo de Excel que generó Database_Procesing.py, y el archivo Statistics, 
-el cual es un Jupyter Notebook que contiene un análisis detallado de los datos recopilados y con base en el cual se realizó este artículo.
+el cual es un Jupyter Notebook que contiene un análisis detallado de los datos recopilados y con base en el cual se realizó este Proyecto.
